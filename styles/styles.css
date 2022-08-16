@@ -1,0 +1,593 @@
+.head{
+    /* head */
+
+
+position: absolute;
+width: 279px;
+height: 32px;
+left: 91px;
+top: 32px;
+
+}
+
+
+
+.we-are-win{
+    position: absolute;
+width: 257px;
+height: 24px;
+left: 153px;
+top: 41px;
+
+/* заголовок 1 */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+
+color: #1D1E25;
+
+}
+
+.gus{
+    position: absolute;
+width: 329px;
+height: 275px;
+left: 152px;
+top: 84px;
+
+/* акцент */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height, or 100% */
+
+
+/* жовтий */
+
+color: #FEC830;
+
+}
+.benderogus{
+    position: absolute;
+width: 444px;
+height: 57px;
+left: 153px;
+top: 153px;
+
+/* заголовок h1 */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 64px;
+line-height: 24px;
+/* or 38% */
+
+display: flex;
+align-items: center;
+
+/* темний */
+
+color: #1D1E25;
+
+}
+.opis{
+    position: absolute;
+    width: 440.18px;
+    height: 158px;
+    left: 152px;
+    top: 279.34px;
+    
+    /* основній текст */
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+    
+    
+    color: #1D1E25;
+    
+}
+.gusak{
+    /* gus */
+
+
+position: absolute;
+width: 640px;
+height: 720px;
+left: 720px;
+top: -150px;
+
+}
+.play{
+    /* Frame 2 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 12px 24px;
+gap: 10px;
+
+position: absolute;
+width: 164.27px;
+height: 47px;
+left: 153px;
+top: 380px;
+
+background: #FEC830;
+border-radius: 8px;
+}
+
+.box-header{
+    position: absolute;
+width: 668px;
+height: 489px;
+left: 0px;
+top: 162px;
+
+background: #FFFFFF;
+}
+.header{
+    position: absolute;
+width: 1360px;
+height: 720px;
+left: 0px;
+top: 0px;
+
+background: radial-gradient(100% 356.79% at 100% 41.88%, #A5DEFF 0%, #FFFFFF 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+}
+.body-gus{
+    position: relative;
+width: 1360px;
+height: 1973px;
+
+background: #FFFFFF;
+}
+.vector{
+    /* Vector */
+position: absolute;
+left: 48.82%;
+right: 48.97%;
+top: 38.82%;
+bottom: 58.54%;
+
+
+}
+.body-h2{
+    /* Цікаві факти про бандерогусей */
+
+
+position: absolute;
+width: 813px;
+height: 24px;
+left: 350px;
+top: 842px;
+
+/* акцент 2 */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 24px;
+/* identical to box height, or 50% */
+
+
+color: #000000;
+
+}
+
+.gus1{
+    /* 1 факт */
+
+
+position: absolute;
+width: 374px;
+height: 514px;
+left: 98px;
+top: 995px;
+
+}
+
+.gus2{
+    /* 2 факт */
+
+
+position: absolute;
+width: 374px;
+height: 509px;
+left: 495px;
+top: 995px;
+
+}
+
+.gus3{
+    /* 3 факт */
+
+
+position: absolute;
+width: 374px;
+height: 512.67px;
+left: 892px;
+top: 995px;
+
+}
+
+
+
+.vector-f{
+    /* Vector */
+
+
+position: absolute;
+left: 48.68%;
+right: 49.12%;
+top: 72px;
+bottom: 13.48%;
+
+
+}
+
+.ukr{
+    /* Перемога завжди за нами! */
+
+
+position: absolute;
+width: 692px;
+height: 24px;
+left: 334px;
+top: 100px;
+
+/* акцент 2 */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 24px;
+/* identical to box height, or 50% */
+
+
+/* темний */
+
+color: #1D1E25;
+
+}
+.p{
+    /* Головна мета бандерогусей — служити гумору та доброті нашого народу. Ми забезпечимо вашу посмішку у часи, коли вона так необхідна */
+
+
+position: absolute;
+width: 875px;
+height: 48px;
+left: 147px;
+top: 197.76px;
+
+/* основній текст */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+text-align: center;
+
+/* темний */
+
+color: #1D1E25;
+
+}
+
+.footer{
+    /* Rectangle 288 */
+
+
+position: absolute;
+width: 1170px;
+height: 318px;
+left: 95px;
+top: 1583px;
+
+background: radial-gradient(100% 356.79% at 100% 41.88%, #A5DEFF 0%, #B7E5FF 0.01%, #CEE9F9 0.02%, #EEF5F9 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+}
+
+.box-finish{
+    /* модальне вікно */
+
+
+position: relative;
+width: 1360px;
+height: 768px;
+
+background: #36343E;
+}
+
+.body-finish{
+/* Rectangle 289 */
+
+
+position: absolute;
+width: 573px;
+height: 219px;
+left: 393px;
+top: 177px;
+
+background: #D9D9D9;
+}
+
+.crossik{
+    /* Vector */
+
+
+position: absolute;
+left: 509px;
+right: 40px;
+top: 44px;
+bottom: 151px;
+
+/* black */
+
+
+}
+
+.finish-v{
+    /* Vector */
+
+
+position: absolute;
+left: 49.04%;
+right: 48.75%;
+top: 72px;
+bottom: 66.26%;
+
+
+}
+
+.thank{
+    /* Дякуємо, гусь успішно запущений */
+
+
+position: absolute;
+width: 472px;
+height: 24px;
+left: 110px;
+top: 100px;
+
+/* акцент */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height, or 100% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+}
+
+.ukr-top{
+    /* Слава Україні! Героям Слава! */
+
+
+position: absolute;
+width: 240px;
+height: 24px;
+left: 185px;
+top: 140px;
+
+/* основній текст */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+
+color: #000000;
+
+}
+
+.register{
+    /* модальне вікно */
+
+
+position: relative;
+width: 1360px;
+height: 768px;
+
+background: #36343E;
+}
+
+.div-reg{
+    /* Rectangle 289 */
+
+
+position: absolute;
+width: 573px;
+height: 453px;
+left: 393px;
+top: 189px;
+
+background: #D9D9D9;
+}
+
+.cross-reg{
+    /* Vector */
+
+
+position: absolute;
+left: 519px;
+right: 32px;
+top: 32px;
+bottom: 68.1%;
+
+/* black */
+
+}
+
+.vek-reg{
+    /* Vector */
+
+
+position: absolute;
+left: 49.04%;
+right: 48.75%;
+top: 18px;
+bottom: 66.26%;
+
+}
+
+.h4-reg{
+    /* Поділися, будь ласка, поштою */
+
+
+position: absolute;
+width: 387px;
+height: 24px;
+left: 130px;
+top: 60px;
+
+/* акцент */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height, or 100% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+}
+.imya{
+    /* Ім’я */
+
+
+position: absolute;
+width: 282px;
+height: 20.36px;
+left: 99px;
+top: 153px;
+
+/* основній текст */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+
+color: #000000;
+
+}
+
+.pole-im{
+    /* Rectangle 290 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 374px;
+height: 35.64px;
+left: 99px;
+top: 201.36px;
+
+/* сін */
+
+border: 1px solid #0392E2;
+border-radius: 8px;
+}
+
+.email{
+    /* Email */
+
+
+position: absolute;
+width: 282px;
+height: 20.36px;
+left: 99px;
+top: 240px;
+
+/* основній текст */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+
+color: #000000;
+
+}
+
+.pole-em{
+    /* Rectangle 290 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 374px;
+height: 35.64px;
+left: 99px;
+top: 305px;
+
+/* сін */
+
+border: 1px solid #0392E2;
+border-radius: 8px;
+}
+
+.button-reg{
+    /* Frame 2 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 12px 24px;
+gap: 10px;
+
+position: absolute;
+width: 164.27px;
+height: 47px;
+left: 204px;
+top: 356px;
+
+background: #FEC830;
+border-radius: 8px;
+}
